@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Aeropuerto.dir\\Debug\\Plane.obj",
+            "outputs": [
+                "C:\\Users\\TheMaster\\Documents\\seriedades\\Programacion\\PracticandoC++\\Aeropuerto\\build\\Aeropuerto.dir\\Debug\\vc143.pdb",
+                "Aeropuerto.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

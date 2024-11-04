@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\TheMaster\Documents\seriedades\Programacion\PracticandoC++\Aeropuerto\src\Models.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\TheMaster\Documents\seriedades\Programacion\PracticandoC++\Aeropuerto\src\Plane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\TheMaster\Documents\seriedades\Programacion\PracticandoC++\Aeropuerto\src\Tower.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\TheMaster\Documents\seriedades\Programacion\PracticandoC++\Aeropuerto\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\TheMaster\Documents\seriedades\Programacion\PracticandoC++\Aeropuerto\include\Models.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\TheMaster\Documents\seriedades\Programacion\PracticandoC++\Aeropuerto\include\Plane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\TheMaster\Documents\seriedades\Programacion\PracticandoC++\Aeropuerto\include\Runway.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\TheMaster\Documents\seriedades\Programacion\PracticandoC++\Aeropuerto\include\Tower.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\TheMaster\Documents\seriedades\Programacion\PracticandoC++\Aeropuerto\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9F399673-F192-3F97-A010-A20B21A81ACB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{034898EA-2733-3787-8009-F7478C3B9B80}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

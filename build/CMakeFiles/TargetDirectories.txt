@@ -1,0 +1,3 @@
+C:/Users/TheMaster/Documents/seriedades/Programacion/PracticandoC++/Aeropuerto/build/CMakeFiles/Aeropuerto.dir
+C:/Users/TheMaster/Documents/seriedades/Programacion/PracticandoC++/Aeropuerto/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/TheMaster/Documents/seriedades/Programacion/PracticandoC++/Aeropuerto/build/CMakeFiles/ZERO_CHECK.dir

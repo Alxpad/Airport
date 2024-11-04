@@ -1,0 +1,10 @@
+^C:\USERS\THEMASTER\DOCUMENTS\SERIEDADES\PROGRAMACION\PRACTICANDOC++\AEROPUERTO\BUILD\CMAKEFILES\22B82A10C0B35F80461F43D205556C16\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/TheMaster/Documents/seriedades/Programacion/PracticandoC++/Aeropuerto -BC:/Users/TheMaster/Documents/seriedades/Programacion/PracticandoC++/Aeropuerto/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/TheMaster/Documents/seriedades/Programacion/PracticandoC++/Aeropuerto/build/Aeropuerto.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
